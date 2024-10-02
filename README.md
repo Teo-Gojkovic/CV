@@ -3,17 +3,14 @@
 ### Administrateur system - Caréco France
 
 ## Contact
-Adresse : 55 Rue du Faubourg Saint-Honoré, 75008 Paris
+Adresse : 127.0.0.1
 
 Mail : contact@teogojkovic.fr
 
-N° tel : 00 00 00 00 00
-
 Réseaux : 
 
-    GitHub : [Teo-Gojkovic](https://github.com/Teo-Gojkovic)
-
-    Likedin : [Teo GOJKOVIC](https://fr.linkedin.com/in/teo-gojkovic)
+[![Teo GOJKOVIC](https://img.shields.io/badge/Teo_GOJKOVIC-222e45?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Teo-Gojkovic) <br>
+[![Teo GOJKOVIC](https://img.shields.io/badge/Teo_GOJKOVIC-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/teo-gojkovic/)
 
 ## Comptétences : 
 
@@ -32,27 +29,39 @@ LPP Le Marais ST-Thérèse - Bac pro SN option C
 LPP Le Marais ST-Thérèse - Habilitation éléctrique B1V et BR
 
 ## Exprerience
+*17/07/2024 - aujourd'hui*
+
+**Caréco - Alternant administrateur systemes**
+
+Administration du réseau, gestions des demandes quotidienne, gestion de projet IT.
+
+*01/03/2024 - aujourd'hui*
+
+**Elan Vertical FJEP**
+
+Initiateur d'escalade pour enfants.
+
 *26/02/2024 - 29/03/2024*
 
-**EIDEN - Techicien / Développeur fullstack** 
-    
-Installation d'écran LED, cablage de baie de brassage.
-    
+**EIDEN - Stage Techicien / Développeur fullstack** 
+
+Installation d'écran LED, cablage de baie de brassage. <br>
 Conseption d'un projet interne.
+
 
 ##
 
 *27/11/2023 - 22/12/2023*
 
-**Laboratoire Hubert Curien CNRS - Développeur fullstack**
+**Laboratoire Hubert Curien CNRS - Stage Développeur fullstack**
 
-Développement du projet MultiSence Hub ([GitHub](https://github.com/Teo-Gojkovic/MultiSense-Hub))
+Développement du projet MultiSence Hub ([Projet sur GitHub](https://github.com/Teo-Gojkovic/MultiSense-Hub))
 
 ## 
 
 *07/02/2023 - 18/02/2023*
 
-**TechOnMe - Développeur fullstack**
+**TechOnMe - Stage Développeur fullstack**
 
 Créaton d'un appareil visant à capturer les données ambiante d'une baie de brassage dans une BDD MySQL et l'afficher sur un site web avec graphique.
 
@@ -60,7 +69,7 @@ Créaton d'un appareil visant à capturer les données ambiante d'une baie de br
 
 *03/01/2023 - 03/02/2023*
 
-**Laboratoire Hubert Curien - Assistant ingénieur d'étude**
+**Laboratoire Hubert Curien - Stage Assistant ingénieur d'étude**
 
 Conseption d'un appareil qui capture les données abiante d'une salle d'experience à l'aide d'un arduino et la sauvgarder dans un Raspberry PI
 
